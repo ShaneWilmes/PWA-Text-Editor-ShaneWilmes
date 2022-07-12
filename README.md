@@ -32,6 +32,4 @@ idb
 Make a pull request with comments or questions.
 [Project Repo](https://github.com/ShaneWilmes/PWA-Text-Editor-ShaneWilmes)
 
-## License
-![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
     
