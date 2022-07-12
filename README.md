@@ -22,7 +22,6 @@ PWA/Progressive Web Application.  This app can download a text editor to make no
 - Node.js
 - Express.js
 - IndexedDB
-- Day.js
 - Heroku
 
 ## My GitHub
