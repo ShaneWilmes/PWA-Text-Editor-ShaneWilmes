@@ -40,6 +40,6 @@ Make a pull request with comments or questions.
 [Project Repo](https://github.com/ShaneWilmes/PWA-Text-Editor-ShaneWilmes)
 
 ## License
-[MIT](![License](https://img.shields.io/badge/License-MIT-yellow.svg))
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
     
