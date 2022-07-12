@@ -26,7 +26,7 @@ PWA/Progressive Web Application.  This app can download a text editor to make no
 - Heroku
 
 ## My GitHub
-ShaneWilmes
+[ShaneWilmes](https://github.com/ShaneWilmes/PWA-Text-Editor-ShaneWilmes)
 
 ## E-mail
 shanewilmes@yahoo.com
