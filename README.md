@@ -32,7 +32,7 @@ shanewilmes@yahoo.com
 
 ## Usage
 [On Heroku](https://text-editor-sww.herokuapp.com/)
-Click Install
+Click Install.  From the command line, run npm install and then npm run start.
 
 ## Contributing
 Make a pull request with comments or questions.
